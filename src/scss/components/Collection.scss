@@ -1,0 +1,15 @@
+.collection_effect{
+    
+    .imgCaption_parent{
+        position: relative;
+        cursor: pointer;
+    
+        .imgCaption_child{
+            position: absolute;
+            bottom: 30%;
+            left: 30%;
+            text-align: center;
+        }
+    }
+}
+ 

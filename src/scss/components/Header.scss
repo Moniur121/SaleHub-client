@@ -1,0 +1,8 @@
+.top_header{
+    .header_contact{
+        cursor: pointer;
+        &:hover{
+            color: $primary;
+        }
+    }
+}

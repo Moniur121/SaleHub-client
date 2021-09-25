@@ -1,0 +1,22 @@
+.product_item {
+  height: 365px;
+  cursor: pointer;
+  img {
+    height: 210px;
+  }
+  .choose_product {
+    img {
+      width: 30px;
+      height: 30px;
+      border-radius: 40px;
+    }
+  }
+}
+.text-bold {
+  font-weight: bold;
+  color: $dark;
+  font-size: 22px;
+}
+.search_bar {
+  width: 360px;
+}

@@ -1,0 +1,31 @@
+.banner_components{
+    img{
+        height: 500px;
+    }
+    .slider_caption{
+         .caption{
+             text-align: justify;
+         }
+        h4{
+            color: $light;
+            font-weight: bold;
+            font-size: 27px;
+        }
+        h2{
+            color: $light;
+            font-weight: bold;
+            font-size: 50px;
+        }
+        h1{
+            color: $light;
+            font-weight: bold;
+            font-size: 80px;
+            margin-top: -15px;
+        }
+        p{
+            color: $light;
+            font-size: 20px;
+            margin-top: -8px;
+        }
+    }
+}
